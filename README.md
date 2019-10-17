@@ -9,11 +9,11 @@ git clone https://github.com/<your_handle>/hackoctober.git
 ```
 3. Add your name in Contributors.md file.
 4. Write these command on your terminal-
-```
-git add .
-git commit -m "your name"
-git push origin master
-```
+  ```
+    git add .
+    git commit -m "your name"
+    git push origin master
+  ```
 5. Then create your pull request.
 6. Star my [repository](https://github.com/Bhavdeep21/hackoctober.git).
 7. Congratulations!! You have successfully created your pull request.
